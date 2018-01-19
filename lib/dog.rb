@@ -4,9 +4,5 @@ class Dog
     @name = name
   end
 
-  def initialize(name, bark="Woof")
-    @name = name
-    @bark = bark
-  end
 
 end
