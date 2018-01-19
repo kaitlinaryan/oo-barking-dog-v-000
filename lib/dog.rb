@@ -3,11 +3,12 @@ class Dog
   def initialize
     Dog.new
   end
+
   def name=(name)
     @name = name
   end
 
-def .bark
+def bark
   puts "woof!"
 end
 
